@@ -1,0 +1,634 @@
+{
+  "version": 1,
+  "width": 102,
+  "height": 20,
+  "duration": 37.636521,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.242902,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000053,
+      "\u001b]2;alp@macbook: ~\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.020263,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36m~\u001b[00m \u001b[K"
+    ],
+    [
+      0.000124,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.533394,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[10D"
+    ],
+    [
+      0.393104,
+      "export AZURE_SUB\u001b[4mS\u001b[24mCRIPTION_ID=27b750cd-ed43-42fd-9044-8d75e124ae55\u001b[1B\u001b[56DS_\u001b[A\u001b[5C"
+    ],
+    [
+      0.145994,
+      "\u0008\u0008\u0008\u001b[4mS\u001b[4mU\u001b[24mB\u001b[24mS\u001b[1B\u0008\u0008\u0008\u0008\u0008\u0008\u0008U_\u001b[A\u001b[1C"
+    ],
+    [
+      0.067425,
+      "\u001b[1C\u001b[4mU\u001b[4mB\u001b[24m\u001b[1B\u0008\u0008\u0008\u0008\u0008B_\u001b[A"
+    ],
+    [
+      0.135249,
+      "\u001b[2C\u001b[4mB\u001b[4mS\u001b[24m\u001b[1B\u0008\u0008\u0008\u0008\u0008S_\u001b[A\u0008"
+    ],
+    [
+      0.517605,
+      "\u001b[24mS\u001b[24mU\u001b[24mB\u001b[24mS\u001b[1B\r\u001b[K\u001b[A\u001b[18C"
+    ],
+    [
+      0.000065,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000124,
+      "\u001b[1B\r"
+    ],
+    [
+      0.001840,
+      "\u001b]2;export AZURE_SUBSCRIPTION_ID=27b750cd-ed43-42fd-9044-8d75e124ae55\u0007\u001b]1;export\u0007"
+    ],
+    [
+      0.000089,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000088,
+      "\u001b]2;alp@macbook: ~\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.021679,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36m~\u001b[00m \u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.504969,
+      "d"
+    ],
+    [
+      0.078663,
+      "\u0008do"
+    ],
+    [
+      0.089685,
+      "c"
+    ],
+    [
+      0.068028,
+      "k"
+    ],
+    [
+      0.056053,
+      "e"
+    ],
+    [
+      0.056054,
+      "r"
+    ],
+    [
+      0.056335,
+      "-"
+    ],
+    [
+      0.134875,
+      "m"
+    ],
+    [
+      0.078823,
+      "a"
+    ],
+    [
+      0.046175,
+      "c"
+    ],
+    [
+      0.189934,
+      "h"
+    ],
+    [
+      0.078999,
+      "i"
+    ],
+    [
+      0.055914,
+      "n"
+    ],
+    [
+      0.034021,
+      "e"
+    ],
+    [
+      0.146103,
+      " "
+    ],
+    [
+      0.090192,
+      "c"
+    ],
+    [
+      0.258739,
+      "r"
+    ],
+    [
+      0.078853,
+      "e"
+    ],
+    [
+      0.100856,
+      "a"
+    ],
+    [
+      0.101294,
+      "t"
+    ],
+    [
+      0.044972,
+      "e"
+    ],
+    [
+      0.360341,
+      " "
+    ],
+    [
+      0.202415,
+      "-"
+    ],
+    [
+      0.090244,
+      "d"
+    ],
+    [
+      0.111912,
+      " "
+    ],
+    [
+      0.090075,
+      "a"
+    ],
+    [
+      0.079045,
+      "z"
+    ],
+    [
+      0.123785,
+      "u"
+    ],
+    [
+      0.045251,
+      "r"
+    ],
+    [
+      0.044473,
+      "e"
+    ],
+    [
+      0.079271,
+      " "
+    ],
+    [
+      0.337246,
+      "b"
+    ],
+    [
+      0.056670,
+      "o"
+    ],
+    [
+      0.123512,
+      "o"
+    ],
+    [
+      0.450099,
+      "m"
+    ],
+    [
+      0.415638,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000054,
+      "\r\r\n"
+    ],
+    [
+      0.001500,
+      "\u001b]2;docker-machine create -d azure boom\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;docker-machine\u0007"
+    ],
+    [
+      0.053361,
+      "Running pre-create checks...\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Completed machine pre-create checks.\r\n"
+    ],
+    [
+      0.001348,
+      "Creating machine...\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Querying existing resource group...  name=\"docker-machine\"\r\n"
+    ],
+    [
+      0.200364,
+      "(boom) Creating resource group...  name=\"docker-machine\" location=\"westus\"\r\n"
+    ],
+    [
+      0.618220,
+      "(boom) Creating availability set...  name=\"docker-machine\"\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Creating network security group...  name=\"boom-firewall\" location=\"westus\"\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Querying if virtual network already exists...  name=\"docker-machine-vnet\" location=\"westus\"\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Creating subnet...  name=\"docker-machine\" vnet=\"docker-machine-vnet\" cidr=\"192.168.0.0/16\"\r\n"
+    ],
+    [
+      0.724629,
+      "(boom) Creating public IP address...  name=\"boom-ip\"\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Creating network interface...  name=\"boom-nic\"\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Creating storage account \"vhdsg848v0jw4a20gvj5pjof\" in westus\r\n"
+    ],
+    [
+      1.000000,
+      "(boom) Creating Virtual Machine...  name=\"boom\" location=\"westus\" size=\"Standard_A2\" username=\"ubuntu\" osImage=\"canonical:UbuntuServer:14.04.3-LTS:latest\"\r\n"
+    ],
+    [
+      1.000000,
+      "Waiting for machine to be running, this may take a few minutes...\r\n"
+    ],
+    [
+      1.000000,
+      "Detecting operating system of created instance...\r\n"
+    ],
+    [
+      0.000015,
+      "Waiting for SSH to be available...\r\n"
+    ],
+    [
+      1.000000,
+      "Detecting the provisioner...\r\n"
+    ],
+    [
+      0.688856,
+      "Provisioning with ubuntu(upstart)...\r\n"
+    ],
+    [
+      1.000000,
+      "Installing Docker...\r\n"
+    ],
+    [
+      1.000000,
+      "Copying certs to the local machine directory...\r\n"
+    ],
+    [
+      1.000000,
+      "Copying certs to the remote machine...\r\n"
+    ],
+    [
+      1.000000,
+      "Setting Docker configuration on the remote daemon...\r\n"
+    ],
+    [
+      1.000000,
+      "Checking connection to Docker...\r\n"
+    ],
+    [
+      1.000000,
+      "Docker is up and running!\r\n"
+    ],
+    [
+      0.001220,
+      "To see how to connect your Docker Client to the Docker Engine running on this virtual machine, run: docker-machine env boom\r\n"
+    ],
+    [
+      0.005056,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000090,
+      "\u001b]2;alp@macbook: ~\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.019401,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36m~\u001b[00m \u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.213154,
+      "\u0008ev"
+    ],
+    [
+      0.112456,
+      "a"
+    ],
+    [
+      0.135190,
+      "l"
+    ],
+    [
+      0.111278,
+      " "
+    ],
+    [
+      0.395117,
+      "$"
+    ],
+    [
+      0.123288,
+      "("
+    ],
+    [
+      0.201520,
+      "d"
+    ],
+    [
+      0.102352,
+      "o"
+    ],
+    [
+      0.055648,
+      "c"
+    ],
+    [
+      0.135397,
+      "k"
+    ],
+    [
+      0.056211,
+      "e"
+    ],
+    [
+      0.055483,
+      "r"
+    ],
+    [
+      0.080243,
+      "-"
+    ],
+    [
+      0.168258,
+      "m"
+    ],
+    [
+      0.078556,
+      "a"
+    ],
+    [
+      0.033632,
+      "c"
+    ],
+    [
+      0.214069,
+      "h"
+    ],
+    [
+      0.090227,
+      "i"
+    ],
+    [
+      0.033460,
+      "n"
+    ],
+    [
+      0.089832,
+      "e"
+    ],
+    [
+      0.067429,
+      " "
+    ],
+    [
+      0.123721,
+      "e"
+    ],
+    [
+      0.157874,
+      "n"
+    ],
+    [
+      0.101239,
+      "v"
+    ],
+    [
+      0.236198,
+      "b"
+    ],
+    [
+      0.348883,
+      "\u0008 \u0008"
+    ],
+    [
+      0.157492,
+      " "
+    ],
+    [
+      0.056084,
+      "b"
+    ],
+    [
+      0.159964,
+      "o"
+    ],
+    [
+      0.155127,
+      "o"
+    ],
+    [
+      0.145782,
+      "m"
+    ],
+    [
+      0.270259,
+      ")"
+    ],
+    [
+      1.000000,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.001457,
+      "\u001b]2;eval $(docker-machine env boom)\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;eval\u0007"
+    ],
+    [
+      1.000000,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000093,
+      "\u001b]2;alp@macbook: ~\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.019113,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36m~\u001b[00m \u001b[K"
+    ],
+    [
+      0.000073,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.950586,
+      "d"
+    ],
+    [
+      0.100855,
+      "\u0008do"
+    ],
+    [
+      0.089875,
+      "c"
+    ],
+    [
+      0.067568,
+      "k"
+    ],
+    [
+      0.056182,
+      "e"
+    ],
+    [
+      0.056238,
+      "r"
+    ],
+    [
+      0.022820,
+      " "
+    ],
+    [
+      0.337861,
+      "v"
+    ],
+    [
+      0.134712,
+      "e"
+    ],
+    [
+      0.067144,
+      "r"
+    ],
+    [
+      0.101463,
+      "s"
+    ],
+    [
+      0.112472,
+      "i"
+    ],
+    [
+      0.112882,
+      "o"
+    ],
+    [
+      0.078349,
+      "n"
+    ],
+    [
+      0.247171,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.001411,
+      "\u001b]2;docker version\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.192617,
+      "Client:\r\n Version:      1.10.2\r\n API version:  1.22\r\n Go version:   go1.6\r\n Git commit:   c3959b1\r\n Built:        Tue Feb 23 21:12:32 UTC 2016\r\n OS/Arch:      darwin/amd64\r\n\r\nServer:\r\n Version:      1.10.2\r\n API version:  1.22\r\n Go version:   go1.5.3\r\n Git commit:   c3959b1\r\n Built:        Mon Feb 22 21:37:01 2016\r\n OS/Arch:      linux/amd64\r\n"
+    ],
+    [
+      0.002830,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000099,
+      "\u001b]2;alp@macbook: ~\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.019360,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36m~\u001b[00m \u001b[K"
+    ],
+    [
+      0.000057,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.000000,
+      "\r\r\n"
+    ]
+  ]
+}
